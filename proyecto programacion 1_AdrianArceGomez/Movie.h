@@ -1,55 +1,57 @@
 #pragma once
-#include "cinema.h"
-#include "Room.h"
-#include "Schedule.h"
-
+#include <string>
+using namespace std;
 
 class Movie {
 private:
-    string name;
+    std::string name;
     int year;
-    string time;
-    string country;
+    std::string time;
+    std::string country;
     int ratings;
-    bool withData = false;
+    bool withData;
+    int cinemaMovies[10];
 
 public:
     Movie() {
 
+        name = "";
+
+        year = 0;
+
+        time = "";
+
+        country = "";
+
+        ratings = 0;
+
+        withData = false;
+
+    };
+
+    Movie(std::string _name, int _year, std::string _time, std::string _country, int _ratings)
+        : name(_name), year(_year), time(_time), country(_country), ratings(_ratings), withData(true) {
+    
+        std::string _name;
+    
+    
+    
+    
     }
 
-    Movie(string name, int year, string time, string country, int ratings) {
-        this->name = name;
-        this->year = year;
-        this->time = time;
-        this->country = country;
-        this->ratings = ratings;
-    }
-
-
-    void setName(string n) { name = n; }
+    void setName(const std::string& n) { name = n; }
     void setYear(int y) { year = y; }
-    void setTime(string t) { time = t; }
-    void setCountry(string c) { country = c; }
+    void setTime(const std::string& t) { time = t; }
+    void setCountry(const std::string& c) { country = c; }
     void setRatings(int r) { ratings = r; }
     void setWithData(bool wd) { withData = wd; }
 
-    string getName() { return name; }
-    int getYear() { return year; }
-    string getTime() { return time; }
-    string getCountry() { return country; }
-    int getRatings() { return ratings; }
-    bool getWithData() { return withData; }
+    std::string getName() const { return name; }
+    int getYear() const { return year; }
+    std::string getTime() const { return time; }
+    std::string getCountry() const { return country; }
+    int getRatings() const { return ratings; }
+    bool getWithData() const { return withData; }
 
-
-};
-class Booking {
-private:
-    Schedule schedule;
-    Seat bookSeats[5];
-    double totalPrice;
-    int bookingNumber;
-
-public:
-
+   
 };

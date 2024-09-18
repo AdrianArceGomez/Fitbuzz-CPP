@@ -1,41 +1,34 @@
 #pragma once
-#include "cinema.h"
-#include "Movie.h"
-#include "Room.h"
+#include <iostream>
+#include <string>
+
 
 
 class Schedule {
-private:
-    string date;
-    int startHour;
-    int endHour;
-    Movie movie;
-    Room room;
+private: 
+
+	string date;
+	int startHour;
+	int endHour;
+	
 
 public:
 
-    Schedule() {
+	Schedule();
 
+	Schedule(string _date, int _starthour, int _endhour );
+	//Setters
+	void setdate(string);
+	void setstartHour(int);
+	void setendHour(int);
 
-    }
-    Schedule(string date, int starthour, int endhour) {
+	//Getters
+	string getdate();
+	int getstartHour();
+	int getendHour();
 
-        void setdate();
-        void setstartHour();
-        void setendHour();
+	void makeschedule( int startHour, int endHour);
 
+	
 
-        string getdate();
-        int getstartHour();
-        int getendHour();
-
-
-    }
-    int schedule() {
-
-
-
-
-
-    }
 };

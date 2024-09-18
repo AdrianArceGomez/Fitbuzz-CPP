@@ -1,57 +1,183 @@
-﻿  proyecto programacion 1_AdrianArceGomez.cpp
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Schedule.h(9,12): error C3646: 'date': especificador de invalidación desconocido
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Schedule.h(9,5): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Schedule.h(12,11): error C3646: 'movie': especificador de invalidación desconocido
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Schedule.h(12,5): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Schedule.h(13,10): error C3646: 'room': especificador de invalidación desconocido
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Schedule.h(13,5): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Schedule.h(21,14): error C2061: error de sintaxis: identificador 'string'
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Schedule.h(21,5): error C2535: 'Schedule::Schedule(void)': función miembro ya definida o declarada
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Schedule.h(28,9): error C2065: 'string': identificador no declarado
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Schedule.h(28,16): error C2146: error de sintaxis: falta ';' delante del identificador 'getdate'
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Schedule.h(28,16): error C3861: 'getdate': no se encontró el identificador
+﻿  MenusCinema.cpp
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Movie.h(35,21): error C2082: nueva definición del parámetro formal '_name'
+  (compilando archivo de origen "MenusCinema.cpp")
+  
 C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Room.h(12,10): error C3646: 'roomSeats': especificador de invalidación desconocido
+  (compilando archivo de origen "MenusCinema.cpp")
+  
 C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Room.h(12,19): error C2143: error de sintaxis: falta ',' delante de '['
+  (compilando archivo de origen "MenusCinema.cpp")
+  
 C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Room.h(12,27): error C2238: símbolos (token) inesperados delante de ';'
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Room.h(22,12): error C3646: 'state': especificador de invalidación desconocido
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Room.h(22,5): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Room.h(32,13): error C3646: 'booking': especificador de invalidación desconocido
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Room.h(32,5): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Room.h(33,12): error C3646: 'idCustomer': especificador de invalidación desconocido
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Room.h(33,5): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Room.h(34,12): error C3646: 'cardNumber': especificador de invalidación desconocido
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Room.h(34,5): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Movie.h(9,12): error C3646: 'name': especificador de invalidación desconocido
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Movie.h(9,5): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Movie.h(11,12): error C3646: 'time': especificador de invalidación desconocido
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Movie.h(11,5): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Movie.h(12,12): error C3646: 'country': especificador de invalidación desconocido
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Movie.h(12,5): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Movie.h(21,11): error C2061: error de sintaxis: identificador 'string'
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Movie.h(21,5): error C2535: 'Movie::Movie(void)': función miembro ya definida o declarada
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Movie.h(30,18): error C2061: error de sintaxis: identificador 'string'
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Movie.h(32,18): error C2061: error de sintaxis: identificador 'string'
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Movie.h(33,21): error C2061: error de sintaxis: identificador 'string'
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Movie.h(37,12): error C3646: 'getName': especificador de invalidación desconocido
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Movie.h(37,19): error C2059: error de sintaxis: '('
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Movie.h(37,22): error C2334: símbolos (token) inesperados delante de '{'; se pasará por alto el cuerpo de función aparente
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Movie.h(39,12): error C3646: 'getTime': especificador de invalidación desconocido
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Movie.h(39,19): error C2059: error de sintaxis: '('
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Movie.h(39,22): error C2334: símbolos (token) inesperados delante de '{'; se pasará por alto el cuerpo de función aparente
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Movie.h(40,12): error C3646: 'getCountry': especificador de invalidación desconocido
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Movie.h(40,22): error C2059: error de sintaxis: '('
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Movie.h(40,25): error C2334: símbolos (token) inesperados delante de '{'; se pasará por alto el cuerpo de función aparente
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Movie.h(22,15): error C2039: "name": no es un miembro de "Movie"
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Movie.h(22,22): error C2065: 'name': identificador no declarado
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Movie.h(24,15): error C2039: "time": no es un miembro de "Movie"
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Movie.h(25,15): error C2039: "country": no es un miembro de "Movie"
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Movie.h(25,25): error C2065: 'country': identificador no declarado
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Movie.h(30,30): error C2065: 'name': identificador no declarado
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Movie.h(30,37): error C2065: 'n': identificador no declarado
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Movie.h(32,37): error C2065: 't': identificador no declarado
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Movie.h(32,30): error C2659: '=': función como operando izquierdo
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Movie.h(33,33): error C2065: 'country': identificador no declarado
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Movie.h(33,43): error C2065: 'c': identificador no declarado
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\cinema.h(49,37): error C2660: 'Movie::setName': la función no acepta 1 argumentos
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\cinema.h(51,37): error C2660: 'Movie::setTime': la función no acepta 1 argumentos
-C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\cinema.h(53,37): error C2660: 'Movie::setCountry': la función no acepta 1 argumentos
+  (compilando archivo de origen "MenusCinema.cpp")
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Room.h(24,9): error C2065: 'roomSeats': identificador no declarado
+  (compilando archivo de origen "MenusCinema.cpp")
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Room.h(122,13): error C3646: 'booking': especificador de invalidación desconocido
+  (compilando archivo de origen "MenusCinema.cpp")
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Room.h(122,5): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "MenusCinema.cpp")
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\MenusCinema.h(14,15): error C3646: 'Menuaboutme': especificador de invalidación desconocido
+  (compilando archivo de origen "MenusCinema.cpp")
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\MenusCinema.h(14,2): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "MenusCinema.cpp")
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\MenusCinema.h(21,12): error C2061: error de sintaxis: identificador 'Menusaboutme'
+  (compilando archivo de origen "MenusCinema.cpp")
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\MenusCinema.cpp(38,19): error C2511: 'void Generalmenu::Menu(Menusaboutme,int)': la función miembro sobrecargada no se ha encontrado en 'Generalmenu'
+      C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\MenusCinema.h(11,7):
+      vea la declaración de 'Generalmenu'
+  
+  Movie.cpp
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Movie.h(35,21): error C2082: nueva definición del parámetro formal '_name'
+  (compilando archivo de origen "Movie.cpp")
+  
+  MovieList.cpp
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Movie.h(35,21): error C2082: nueva definición del parámetro formal '_name'
+  (compilando archivo de origen "MovieList.cpp")
+  
+  proyecto programacion 1_AdrianArceGomez.cpp
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Movie.h(35,21): error C2082: nueva definición del parámetro formal '_name'
+  (compilando archivo de origen "proyecto%20programacion%201_AdrianArceGomez.cpp")
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Room.h(12,10): error C3646: 'roomSeats': especificador de invalidación desconocido
+  (compilando archivo de origen "proyecto%20programacion%201_AdrianArceGomez.cpp")
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Room.h(12,19): error C2143: error de sintaxis: falta ',' delante de '['
+  (compilando archivo de origen "proyecto%20programacion%201_AdrianArceGomez.cpp")
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Room.h(12,27): error C2238: símbolos (token) inesperados delante de ';'
+  (compilando archivo de origen "proyecto%20programacion%201_AdrianArceGomez.cpp")
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Room.h(24,9): error C2065: 'roomSeats': identificador no declarado
+  (compilando archivo de origen "proyecto%20programacion%201_AdrianArceGomez.cpp")
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Room.h(122,13): error C3646: 'booking': especificador de invalidación desconocido
+  (compilando archivo de origen "proyecto%20programacion%201_AdrianArceGomez.cpp")
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Room.h(122,5): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "proyecto%20programacion%201_AdrianArceGomez.cpp")
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\MenusCinema.h(14,15): error C3646: 'Menuaboutme': especificador de invalidación desconocido
+  (compilando archivo de origen "proyecto%20programacion%201_AdrianArceGomez.cpp")
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\MenusCinema.h(14,2): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "proyecto%20programacion%201_AdrianArceGomez.cpp")
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\MenusCinema.h(21,12): error C2061: error de sintaxis: identificador 'Menusaboutme'
+  (compilando archivo de origen "proyecto%20programacion%201_AdrianArceGomez.cpp")
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\proyecto programacion 1_AdrianArceGomez.cpp(19,7): error C2660: 'Generalmenu::Menu': la función no acepta 2 argumentos
+      C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\MenusCinema.h(21,7):
+      vea la declaración de 'Generalmenu::Menu'
+      C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\proyecto programacion 1_AdrianArceGomez.cpp(19,7):
+      al hacer coincidir la lista de argumentos '(Menusaboutme, int)'
+  
+  Room.cpp
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Movie.h(35,21): error C2082: nueva definición del parámetro formal '_name'
+  (compilando archivo de origen "Room.cpp")
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Room.h(12,10): error C3646: 'roomSeats': especificador de invalidación desconocido
+  (compilando archivo de origen "Room.cpp")
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Room.h(12,19): error C2143: error de sintaxis: falta ',' delante de '['
+  (compilando archivo de origen "Room.cpp")
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Room.h(12,27): error C2238: símbolos (token) inesperados delante de ';'
+  (compilando archivo de origen "Room.cpp")
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Room.h(24,9): error C2065: 'roomSeats': identificador no declarado
+  (compilando archivo de origen "Room.cpp")
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Room.h(122,13): error C3646: 'booking': especificador de invalidación desconocido
+  (compilando archivo de origen "Room.cpp")
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Room.h(122,5): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "Room.cpp")
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Room.cpp(5,7): error C2084: la función 'Room::Room(void)' ya tiene un cuerpo
+      C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Room.h(16,5):
+      vea la definición anterior de “Room::Room”
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Room.cpp(33,6): error C2082: nueva definición del parámetro formal 'numberid'
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Room.cpp(34,9): error C2082: nueva definición del parámetro formal 'seatsid'
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Room.cpp(35,9): error C2082: nueva definición del parámetro formal 'id'
+  RoomList.cpp
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Movie.h(35,21): error C2082: nueva definición del parámetro formal '_name'
+  (compilando archivo de origen "RoomList.cpp")
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Room.h(12,10): error C3646: 'roomSeats': especificador de invalidación desconocido
+  (compilando archivo de origen "RoomList.cpp")
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Room.h(12,19): error C2143: error de sintaxis: falta ',' delante de '['
+  (compilando archivo de origen "RoomList.cpp")
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Room.h(12,27): error C2238: símbolos (token) inesperados delante de ';'
+  (compilando archivo de origen "RoomList.cpp")
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Room.h(24,9): error C2065: 'roomSeats': identificador no declarado
+  (compilando archivo de origen "RoomList.cpp")
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Room.h(122,13): error C3646: 'booking': especificador de invalidación desconocido
+  (compilando archivo de origen "RoomList.cpp")
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Room.h(122,5): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "RoomList.cpp")
+  
+  Schedule.cpp
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Schedule.h(10,9): error C3646: 'date': especificador de invalidación desconocido
+  (compilando archivo de origen "Schedule.cpp")
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Schedule.h(10,2): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "Schedule.cpp")
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Schedule.h(19,11): error C2061: error de sintaxis: identificador 'string'
+  (compilando archivo de origen "Schedule.cpp")
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Schedule.h(19,2): error C2535: 'Schedule::Schedule(void)': función miembro ya definida o declarada
+  (compilando archivo de origen "Schedule.cpp")
+      C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Schedule.h(17,2):
+      vea la declaración de 'Schedule::Schedule'
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Schedule.h(21,15): error C2061: error de sintaxis: identificador 'string'
+  (compilando archivo de origen "Schedule.cpp")
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Schedule.h(26,9): error C3646: 'getdate': especificador de invalidación desconocido
+  (compilando archivo de origen "Schedule.cpp")
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Schedule.h(26,16): error C2059: error de sintaxis: '('
+  (compilando archivo de origen "Schedule.cpp")
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Schedule.h(26,18): error C2238: símbolos (token) inesperados delante de ';'
+  (compilando archivo de origen "Schedule.cpp")
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Schedule.cpp(8,23): error C2614: 'Schedule': inicialización de miembro no válida: 'date' no es una base o miembro
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Schedule.cpp(11,11): error C2511: 'Schedule::Schedule(std::string,int,int)': la función miembro sobrecargada no se ha encontrado en 'Schedule'
+      C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Schedule.h(7,7):
+      vea la declaración de 'Schedule'
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Schedule.cpp(13,2): error C2065: 'date': identificador no declarado
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Schedule.cpp(15,2): error C2597: referencia no válida a miembro no static 'Schedule::startHour'
+      C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Schedule.h(11,6):
+      vea la declaración de 'Schedule::startHour'
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Schedule.cpp(17,2): error C2597: referencia no válida a miembro no static 'Schedule::endHour'
+      C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Schedule.h(12,6):
+      vea la declaración de 'Schedule::endHour'
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Schedule.cpp(21,16): error C2511: 'void Schedule::setdate(std::string)': la función miembro sobrecargada no se ha encontrado en 'Schedule'
+      C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Schedule.h(7,7):
+      vea la declaración de 'Schedule'
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Schedule.cpp(23,2): error C2065: 'date': identificador no declarado
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Schedule.cpp(26,18): error C2039: "getdate": no es un miembro de "Schedule"
+      C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Schedule.h(7,7):
+      vea la declaración de 'Schedule'
+  
+C:\Users\Usuario\source\repos\proyecto programacion 1_AdrianArceGomez\Schedule.cpp(28,9): error C2065: 'date': identificador no declarado
+  Generando código...

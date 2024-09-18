@@ -127,14 +127,21 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="MenusCinema.cpp" />
+    <ClCompile Include="Movie.cpp" />
+    <ClCompile Include="MovieList.cpp" />
     <ClCompile Include="proyecto programacion 1_AdrianArceGomez.cpp" />
+    <ClCompile Include="Room.cpp" />
+    <ClCompile Include="RoomList.cpp" />
+    <ClCompile Include="Schedule.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="cinema.h" />
     <ClInclude Include="Maintenance.h" />
-    <ClInclude Include="Menucinema.h" />
+    <ClInclude Include="MenusCinema.h" />
     <ClInclude Include="Movie.h" />
+    <ClInclude Include="MovieList.h" />
     <ClInclude Include="Room.h" />
+    <ClInclude Include="RoomList.h" />
     <ClInclude Include="Schedule.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
