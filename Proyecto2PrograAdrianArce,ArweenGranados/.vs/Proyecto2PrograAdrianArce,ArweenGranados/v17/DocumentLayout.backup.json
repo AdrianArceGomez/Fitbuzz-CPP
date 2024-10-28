@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce\\",
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce\\Proyecto2PrograAdrianArce.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\Proyecto2PrograAdrianArce.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:Proyecto2PrograAdrianArce.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Proyecto2PrograAdrianArce.cpp",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce\\Proyecto2PrograAdrianArce.cpp",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\Proyecto2PrograAdrianArce.cpp",
               "RelativeDocumentMoniker": "Proyecto2PrograAdrianArce.cpp",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce\\Proyecto2PrograAdrianArce.cpp",
-              "RelativeToolTip": "Proyecto2PrograAdrianArce.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAlAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\Proyecto2PrograAdrianArce.cpp*",
+              "RelativeToolTip": "Proyecto2PrograAdrianArce.cpp*",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAC8AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-11T00:58:55.173Z",
               "EditorCaption": ""
