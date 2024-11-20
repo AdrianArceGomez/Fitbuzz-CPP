@@ -3,8 +3,168 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\SideBarr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:SideBarr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\SideBarr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:SideBarr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\TextInputWindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:TextInputWindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\TextInputWindow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:TextInputWindow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\ShowRous.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:ShowRous.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\RoutManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:RoutManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\Proyecto2PrograAdrianArce.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:Proyecto2PrograAdrianArce.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\PointTurist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:PointTurist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\MouseP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:MouseP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\ExitStrategy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:ExitStrategy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\DisplayList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:DisplayList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\FileManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:FileManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\FileManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:FileManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\Button.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:Button.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\Button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:Button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\RoutFManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:RoutFManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\AboutStrategy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:AboutStrategy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\AboutStrategy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:AboutStrategy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\AddRout.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:AddRout.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\AddRout.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:AddRout.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\BackGroundMusic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:BackGroundMusic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\BackGroundMusic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:BackGroundMusic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\ButtonStrategy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:ButtonStrategy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\Colors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:Colors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\Colors.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:Colors.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\DeletRout.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:DeletRout.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\DeletRout.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:DeletRout.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\DisplayList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:DisplayList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\DoublyLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:DoublyLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\EditRout.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:EditRout.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\EditRout.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:EditRout.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\ExitStrategy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:ExitStrategy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\MouseP.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:MouseP.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\PointTurist.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:PointTurist.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\Rout.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:Rout.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\RoutFManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:RoutFManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\Rout.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:Rout.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\RoutManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:RoutManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\ShowMap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:ShowMap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\ShowMap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:ShowMap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\ShowRous.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B441CD6E-E3A6-4CA2-AEC7-34698F2882DD}|Proyecto2PrograAdrianArce.vcxproj|solutionrelative:ShowRous.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +174,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +182,535 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RoutFManager.cpp",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\RoutFManager.cpp",
+              "RelativeDocumentMoniker": "RoutFManager.cpp",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\RoutFManager.cpp",
+              "RelativeToolTip": "RoutFManager.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAB8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T04:48:40.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RoutFManager.h",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\RoutFManager.h",
+              "RelativeDocumentMoniker": "RoutFManager.h",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\RoutFManager.h",
+              "RelativeToolTip": "RoutFManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T04:48:16.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RoutManager.cpp",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\RoutManager.cpp",
+              "RelativeDocumentMoniker": "RoutManager.cpp",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\RoutManager.cpp",
+              "RelativeToolTip": "RoutManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T04:47:07.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoutManager.h",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\RoutManager.h",
+              "RelativeDocumentMoniker": "RoutManager.h",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\RoutManager.h",
+              "RelativeToolTip": "RoutManager.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T04:45:02.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SideBarr.cpp",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\SideBarr.cpp",
+              "RelativeDocumentMoniker": "SideBarr.cpp",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\SideBarr.cpp",
+              "RelativeToolTip": "SideBarr.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T04:38:41.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SideBarr.h",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\SideBarr.h",
+              "RelativeDocumentMoniker": "SideBarr.h",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\SideBarr.h",
+              "RelativeToolTip": "SideBarr.h",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T04:37:54.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ShowRous.cpp",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\ShowRous.cpp",
+              "RelativeDocumentMoniker": "ShowRous.cpp",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\ShowRous.cpp",
+              "RelativeToolTip": "ShowRous.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T04:37:19.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShowRous.h",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\ShowRous.h",
+              "RelativeDocumentMoniker": "ShowRous.h",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\ShowRous.h",
+              "RelativeToolTip": "ShowRous.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T04:37:02.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AboutStrategy.cpp",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\AboutStrategy.cpp",
+              "RelativeDocumentMoniker": "AboutStrategy.cpp",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\AboutStrategy.cpp",
+              "RelativeToolTip": "AboutStrategy.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T04:36:02.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AboutStrategy.h",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\AboutStrategy.h",
+              "RelativeDocumentMoniker": "AboutStrategy.h",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\AboutStrategy.h",
+              "RelativeToolTip": "AboutStrategy.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T04:35:32.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddRout.cpp",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\AddRout.cpp",
+              "RelativeDocumentMoniker": "AddRout.cpp",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\AddRout.cpp",
+              "RelativeToolTip": "AddRout.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T04:34:40.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddRout.h",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\AddRout.h",
+              "RelativeDocumentMoniker": "AddRout.h",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\AddRout.h",
+              "RelativeToolTip": "AddRout.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T04:34:10.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EditRout.cpp",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\EditRout.cpp",
+              "RelativeDocumentMoniker": "EditRout.cpp",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\EditRout.cpp",
+              "RelativeToolTip": "EditRout.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T04:32:38.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EditRout.h",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\EditRout.h",
+              "RelativeDocumentMoniker": "EditRout.h",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\EditRout.h",
+              "RelativeToolTip": "EditRout.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T04:31:45.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ShowMap.cpp",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\ShowMap.cpp",
+              "RelativeDocumentMoniker": "ShowMap.cpp",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\ShowMap.cpp",
+              "RelativeToolTip": "ShowMap.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T04:27:19.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ShowMap.h",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\ShowMap.h",
+              "RelativeDocumentMoniker": "ShowMap.h",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\ShowMap.h",
+              "RelativeToolTip": "ShowMap.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T04:27:09.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MouseP.cpp",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\MouseP.cpp",
+              "RelativeDocumentMoniker": "MouseP.cpp",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\MouseP.cpp",
+              "RelativeToolTip": "MouseP.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T04:26:26.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MouseP.h",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\MouseP.h",
+              "RelativeDocumentMoniker": "MouseP.h",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\MouseP.h",
+              "RelativeToolTip": "MouseP.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T04:26:12.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ExitStrategy.cpp",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\ExitStrategy.cpp",
+              "RelativeDocumentMoniker": "ExitStrategy.cpp",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\ExitStrategy.cpp",
+              "RelativeToolTip": "ExitStrategy.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T04:23:56.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExitStrategy.h",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\ExitStrategy.h",
+              "RelativeDocumentMoniker": "ExitStrategy.h",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\ExitStrategy.h",
+              "RelativeToolTip": "ExitStrategy.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T04:23:36.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FileManager.cpp",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\FileManager.cpp",
+              "RelativeDocumentMoniker": "FileManager.cpp",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\FileManager.cpp",
+              "RelativeToolTip": "FileManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T04:22:52.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FileManager.h",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\FileManager.h",
+              "RelativeDocumentMoniker": "FileManager.h",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\FileManager.h",
+              "RelativeToolTip": "FileManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T04:21:59.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DisplayList.cpp",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\DisplayList.cpp",
+              "RelativeDocumentMoniker": "DisplayList.cpp",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\DisplayList.cpp",
+              "RelativeToolTip": "DisplayList.cpp",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAGQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T04:18:20.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DisplayList.h",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\DisplayList.h",
+              "RelativeDocumentMoniker": "DisplayList.h",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\DisplayList.h",
+              "RelativeToolTip": "DisplayList.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T04:17:07.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Rout.cpp",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\Rout.cpp",
+              "RelativeDocumentMoniker": "Rout.cpp",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\Rout.cpp",
+              "RelativeToolTip": "Rout.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T03:03:52.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Rout.h",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\Rout.h",
+              "RelativeDocumentMoniker": "Rout.h",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\Rout.h",
+              "RelativeToolTip": "Rout.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T03:02:40.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DeletRout.cpp",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\DeletRout.cpp",
+              "RelativeDocumentMoniker": "DeletRout.cpp",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\DeletRout.cpp",
+              "RelativeToolTip": "DeletRout.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T03:01:44.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DeletRout.h",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\DeletRout.h",
+              "RelativeDocumentMoniker": "DeletRout.h",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\DeletRout.h",
+              "RelativeToolTip": "DeletRout.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T02:59:54.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BackGroundMusic.cpp",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\BackGroundMusic.cpp",
+              "RelativeDocumentMoniker": "BackGroundMusic.cpp",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\BackGroundMusic.cpp",
+              "RelativeToolTip": "BackGroundMusic.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T02:52:22.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BackGroundMusic.h",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\BackGroundMusic.h",
+              "RelativeDocumentMoniker": "BackGroundMusic.h",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\BackGroundMusic.h",
+              "RelativeToolTip": "BackGroundMusic.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T02:51:53.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Colors.cpp",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\Colors.cpp",
+              "RelativeDocumentMoniker": "Colors.cpp",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\Colors.cpp",
+              "RelativeToolTip": "Colors.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T02:30:30.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Colors.h",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\Colors.h",
+              "RelativeDocumentMoniker": "Colors.h",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\Colors.h",
+              "RelativeToolTip": "Colors.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T02:29:56.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TextInputWindow.cpp",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\TextInputWindow.cpp",
+              "RelativeDocumentMoniker": "TextInputWindow.cpp",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\TextInputWindow.cpp",
+              "RelativeToolTip": "TextInputWindow.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T01:38:38.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TextInputWindow.h",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\TextInputWindow.h",
+              "RelativeDocumentMoniker": "TextInputWindow.h",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\TextInputWindow.h",
+              "RelativeToolTip": "TextInputWindow.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T01:38:25.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DoublyLinkedList.h",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\DoublyLinkedList.h",
+              "RelativeDocumentMoniker": "DoublyLinkedList.h",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\DoublyLinkedList.h",
+              "RelativeToolTip": "DoublyLinkedList.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAHwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T00:55:09.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PointTurist.h",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\PointTurist.h",
+              "RelativeDocumentMoniker": "PointTurist.h",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\PointTurist.h",
+              "RelativeToolTip": "PointTurist.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-06T19:32:05.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PointTurist.cpp",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\PointTurist.cpp",
+              "RelativeDocumentMoniker": "PointTurist.cpp",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\PointTurist.cpp",
+              "RelativeToolTip": "PointTurist.cpp",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-19T23:55:45.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Proyecto2PrograAdrianArce.cpp",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\Proyecto2PrograAdrianArce.cpp",
               "RelativeDocumentMoniker": "Proyecto2PrograAdrianArce.cpp",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\Proyecto2PrograAdrianArce.cpp",
               "RelativeToolTip": "Proyecto2PrograAdrianArce.cpp",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAC8AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-11T00:58:55.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Button.cpp",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\Button.cpp",
+              "RelativeDocumentMoniker": "Button.cpp",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\Button.cpp",
+              "RelativeToolTip": "Button.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T19:44:35.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Button.h",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\Button.h",
+              "RelativeDocumentMoniker": "Button.h",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\Button.h",
+              "RelativeToolTip": "Button.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-06T19:26:24.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ButtonStrategy.h",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\ButtonStrategy.h",
+              "RelativeDocumentMoniker": "ButtonStrategy.h",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto2PrograAdrianArce,ArweenGranados\\ButtonStrategy.h",
+              "RelativeToolTip": "ButtonStrategy.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-15T21:32:11.428Z",
               "EditorCaption": ""
             }
           ]

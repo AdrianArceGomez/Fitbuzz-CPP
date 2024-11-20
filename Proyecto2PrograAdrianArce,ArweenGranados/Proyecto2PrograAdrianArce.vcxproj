@@ -133,7 +133,49 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AboutStrategy.cpp" />
+    <ClCompile Include="AddRout.cpp" />
+    <ClCompile Include="BackGroundMusic.cpp" />
+    <ClCompile Include="Button.cpp" />
+    <ClCompile Include="Colors.cpp" />
+    <ClCompile Include="DeletRout.cpp" />
+    <ClCompile Include="DisplayList.cpp" />
+    <ClCompile Include="EditRout.cpp" />
+    <ClCompile Include="ExitStrategy.cpp" />
+    <ClCompile Include="FileManager.cpp" />
+    <ClCompile Include="MouseP.cpp" />
     <ClCompile Include="Proyecto2PrograAdrianArce.cpp" />
+    <ClCompile Include="PointTurist.cpp" />
+    <ClCompile Include="Rout.cpp" />
+    <ClCompile Include="RoutFManager.cpp" />
+    <ClCompile Include="RoutManager.cpp" />
+    <ClCompile Include="ShowMap.cpp" />
+    <ClCompile Include="ShowRous.cpp" />
+    <ClCompile Include="SideBarr.cpp" />
+    <ClCompile Include="TextInputWindow.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AboutStrategy.h" />
+    <ClInclude Include="AddRout.h" />
+    <ClInclude Include="BackGroundMusic.h" />
+    <ClInclude Include="ButtonStrategy.h" />
+    <ClInclude Include="Button.h" />
+    <ClInclude Include="Colors.h" />
+    <ClInclude Include="DeletRout.h" />
+    <ClInclude Include="DisplayList.h" />
+    <ClInclude Include="DoublyLinkedList.h" />
+    <ClInclude Include="EditRout.h" />
+    <ClInclude Include="ExitStrategy.h" />
+    <ClInclude Include="FileManager.h" />
+    <ClInclude Include="MouseP.h" />
+    <ClInclude Include="PointTurist.h" />
+    <ClInclude Include="Rout.h" />
+    <ClInclude Include="RoutFManager.h" />
+    <ClInclude Include="RoutManager.h" />
+    <ClInclude Include="ShowMap.h" />
+    <ClInclude Include="ShowRous.h" />
+    <ClInclude Include="SideBarr.h" />
+    <ClInclude Include="TextInputWindow.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

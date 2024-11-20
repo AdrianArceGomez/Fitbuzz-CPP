@@ -1,85 +1,97 @@
+#include <SFML/Graphics.hpp>
 #include <iostream>
 #include <string>
-#include <SFML/Graphics.hpp>
+#include "Button.h"
+#include "SideBarr.h"
+#include "AddRout.h"
+#include "EditRout.h"
+#include "DeletRout.h"
+#include "AboutStrategy.h"
+#include "ExitStrategy.h"
+#include "PointTurist.h"
+#include "DoublyLinkedList.h"
+#include "BackgroundMusic.h"
+#include "ShowMap.h"
+#include "RoutFManager.h"
+
+using namespace sf;
 using namespace std;
 
-
-int imagen() {
-    sf::RenderWindow window(sf::VideoMode(842, 660), "Stardew Valley Map");
-
-
-    sf::Texture mapaTexture;
-    if (!mapaTexture.loadFromFile("stardewvalleymap.png")) {
-        return -1;
-    }
-
-
-    sf::Sprite mapaSprite;
-    mapaSprite.setTexture(mapaTexture);
-
-    // Bucle principal del juego
-    while (window.isOpen()) {
-        // Manejo de eventos
-        sf::Event event;
-        while (window.pollEvent(event)) {
-            if (event.type == sf::Event::Closed)
-                window.close();
-        }
-
-        // Limpiar la ventana con un color de fondo (opcional)
-        window.clear(sf::Color::Red);
-
-        // Dibujar el mapa en la ventana
-        window.draw(mapaSprite);
-
-        // Mostrar la ventana actualizada
-        window.display();
-    }
-
-
-
+void closeWindow(Event event, RenderWindow& window) {
+	if (event.type == Event::Closed) {
+		window.close();
+	}
 }
-
-void menu() {
-    string ruta;
-    int opcion;
-
-    do {
-        cout << "----- bienvenidos al menu porfavor digite una opcion -----\n";
-        cout << "1. Insertar una ruta\n";
-        cout << "2. Modificar una ruta\n";
-        cout << "3. ver mapa\n";
-        cout << "0. Salir\n";
-
-        cin >> opcion;
-
-        if (opcion == 1) {
-            cout << "Ingrese la ruta a insertar: \n";
-        
-        }
-        if (opcion == 2) {
-            cout << "escoja la ruta a modificar\n";
-        }
-        if (opcion == 3) {
-            imagen();
-        }
-            
-        if (opcion == 0) {
-            cout << "Saliendo del programa...\n";
-        
-   
-        }
-
-    } while (opcion != 0);
-}
-
 
 int main() {
-    
+	DoublyLinkedList<Rout> routes;
+	RouteFileManager::loadFromFile(routes, "routes.txt");
 
-    menu();
+	RenderWindow window(VideoMode(842, 660), "Stardew Valley");
 
-   
+	MapViewer mapViewer(window, "stardewvalleymap.png");
 
-    return 0;
+	Button::initializeButtonShape(sf::Color(255, 224, 178), Vector2f(200.0f, 50.0f));
+	Button::initializeButtonText("Stardew Valley Regular.ttf", 20, Color::Black);
+
+	SideBarMenu sideBarMenu(Vector2f(250.0f, 939.0f), Vector2f(-220.0f, 0.0f), routes);
+	int currentRouteIndex = sideBarMenu.getRouteDisplay().getCurrentRouteIndex();
+
+
+	AddRouteStrategy* addRoute = new AddRouteStrategy(routes);
+	EditRouteStrategy* editRoute = new EditRouteStrategy(routes, currentRouteIndex);
+	DeleteRouteStrategy* deleteRoute = new DeleteRouteStrategy(routes, currentRouteIndex);
+	AboutStrategy* help = new AboutStrategy(window);
+	ExitStrategy* exit = new ExitStrategy(window);
+
+	sideBarMenu.setStrategies(addRoute, editRoute, deleteRoute, help, exit, nullptr);
+
+	BackgroundMusic bgMusic("15 Summer (Tropicala).ogg");
+	bgMusic.play();
+
+	while (window.isOpen()) {
+		Event event;
+		while (window.pollEvent(event)) {
+			Vector2i mousePos = Mouse::getPosition(window);
+
+
+			sideBarMenu.handleMenuEvents(mousePos, window, event);
+
+			if (event.type == Event::MouseButtonPressed && event.mouseButton.button == Mouse::Left) {
+				sideBarMenu.getRouteDisplay().deletePointCurrentRoute(window, event);
+			}
+			if (event.type == Event::MouseButtonPressed && event.mouseButton.button == Mouse::Right) {
+
+				sideBarMenu.getRouteDisplay().addPointToCurrentRoute(window, event);
+
+			}
+
+			if (event.type == Event::KeyPressed && event.key.code == Keyboard::Escape) {
+				sideBarMenu.toggleRouteMenu();
+			}
+
+			RouteFileManager::saveToFile(routes, "routes.txt");
+			closeWindow(event, window);
+
+		}
+
+		sideBarMenu.updateHover(window);
+		sideBarMenu.moveSideBarMenu();
+
+		window.clear(sf::Color::Black);
+
+		mapViewer.drawMap();
+
+		sideBarMenu.draw(window);
+
+		window.display();
+	}
+
+	delete addRoute;
+	delete editRoute;
+	delete deleteRoute;
+	delete help;
+	delete exit;
+
+	return 0;
 }
